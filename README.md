@@ -3,7 +3,7 @@
 **LM STUDIO** is the local LLM desktop: lm studio ai, lm studio bionic, download lm studio, chat and agent.
 
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/644e27f0-50b9-420a-a76a-5fa34b355fcc" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/644e27f0-50b9-420a-a76a-5fa34b355fcc" />
 
 <img width="1610" height="977" alt="ChatGPT Image 19 сент  2026 г , 10_30_24" src="https://github.com/user-attachments/assets/41671fd6-35d4-4cba-903b-0ca48e145844" />
 
